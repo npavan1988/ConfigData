@@ -1,0 +1,3 @@
+spring:
+  profiles: lucky-word
+words: Irish,Rabbit's Foot,Serendipity
